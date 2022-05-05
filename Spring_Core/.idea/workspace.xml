@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f3702e8-81b6-4f6a-9980-17e7c2938664" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="283jK5TUienrpIgVxf7G3KCAmAN" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/spring/core/fourteen/eventHandling" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\manoj\Desktop\Manoj Paul\JavaProjects\Spring\Spring_Core\src\com\spring\core\fourteen\eventHandling" />
+      <recent name="C:\Users\manoj\Desktop\Manoj Paul\JavaProjects\Spring\Spring_Core\src\com\spring\core\thirteen\messageSource" />
+      <recent name="C:\Users\manoj\Desktop\Manoj Paul\JavaProjects\Spring\Spring_Core\src\com\spring\core\twelve\componentStereotypeAnno" />
+      <recent name="C:\Users\manoj\Desktop\Manoj Paul\JavaProjects\Spring\Spring_Core\src" />
+      <recent name="C:\Users\manoj\Desktop\Manoj Paul\JavaProjects\Spring\Spring_Core\src\com\spring\core\ten\autowiredanno" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.spring.core.collection" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\manoj\Desktop\Manoj Paul\JavaProjects\Spring\Spring_Core\src" />
+      <recent name="C:\Users\manoj\Desktop\Manoj Paul\JavaProjects\Spring\Spring_Core\src\com\spring\core" />
+      <recent name="C:\Users\manoj\Desktop\Manoj Paul\JavaProjects\Spring\Spring_Core\src\com\spring\core\two\collection" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DrawingApp (1)">
+    <configuration name="DrawingApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring.core.fourteen.eventHandling.DrawingApp" />
+      <module name="Spring_Core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.core.fourteen.eventHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DrawingApp (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring.core.ten.autowiredanno.DrawingApp" />
+      <module name="Spring_Core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.core.ten.autowiredanno.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DrawingApp (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring.core.eleven.jsr250anno.DrawingApp" />
+      <module name="Spring_Core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.core.eleven.jsr250anno.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DrawingApp (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring.core.twelve.componentStereotypeAnno.DrawingApp" />
+      <module name="Spring_Core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.core.twelve.componentStereotypeAnno.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DrawingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring.core.thirteen.messageSource.DrawingApp" />
+      <module name="Spring_Core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.core.thirteen.messageSource.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DrawingApp (1)" />
+        <item itemvalue="Application.DrawingApp" />
+        <item itemvalue="Application.DrawingApp (5)" />
+        <item itemvalue="Application.DrawingApp (3)" />
+        <item itemvalue="Application.DrawingApp (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f3702e8-81b6-4f6a-9980-17e7c2938664" name="Default Changelist" comment="" />
+      <created>1650452095557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650452095557</updated>
+      <workItem from="1650452108914" duration="28010000" />
+      <workItem from="1650873520229" duration="171000" />
+      <workItem from="1650873709443" duration="3508000" />
+      <workItem from="1650886563875" duration="7455000" />
+      <workItem from="1650894973063" duration="567000" />
+      <workItem from="1650895561097" duration="4108000" />
+      <workItem from="1650957213929" duration="1758000" />
+      <workItem from="1650959130353" duration="8192000" />
+      <workItem from="1650978443447" duration="11180000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/spring/core/fourteen/eventHandling/DrawingApp.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/spring/core/fourteen/eventHandling/EventListener.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/spring/core/fourteen/eventHandling/DrawEvent.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/spring/core/fourteen/eventHandling/Circle.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/spring/core/fourteen/eventHandling/Circle.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id = "triangle" class="com.spring.core.nine.annotations.Triangle" scope="prototype">
+        <property name="pointA" ref="pointFirst"/>
+        <property name="pointB" ref="pointSecond"/>
+        <property name="pointC" ref="pointThird"/>
+    </bean>
+
+    <bean id = "pointFirst" class="com.spring.core.nine.annotations.Point">
+        <property name="x" value="0"/>
+        <property name="y" value="0"/>
+    </bean>
+    <bean id = "pointSecond" class="com.spring.core.nine.annotations.Point">
+        <property name="x" value="-20"/>
+        <property name="y" value="0"/>
+    </bean>
+    <bean id = "pointThird" class="com.spring.core.nine.annotations.Point">
+        <property name="x" value="20"/>
+        <property name="y" value="0"/>
+    </bean>
+
+    <bean id="circle" class="com.spring.core.nine.annotations.Circle" autowire="byName"/>
+
+    <bean class="org.springframework.beans.factory.annotation.RequiredAnnotationBeanPostProcessor"/>
+
+    <alias name="triangle" alias="triangle-alias"/>
+</beans>
